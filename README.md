@@ -10,7 +10,7 @@ Learning notes and documentation from studying OpenClaw
 - [openclaw-acp-explained.md](docs/openclaw-acp-explained.md) - OpenClaw 中的 ACP (Agent Client Protocol) 完全解析
 - [openclaw-acp-persistent-bindings.md](docs/openclaw-acp-persistent-bindings.md) - OpenClaw ACP Persistent Bindings 完全解析
 
-#### Telegram Integration
+#### OpenClaw Telegram Integration
 - [telegram-streaming-deep-dive.md](docs/telegram-streaming-deep-dive.md) - Telegram Bot 串流輸出機制深度解析
 
 ### docs/en/
