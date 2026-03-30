@@ -19,6 +19,11 @@
 #### Bug Fixes
 - [openclaw-tts-voice-message-bug-fix.md](docs/openclaw-tts-voice-message-bug-fix.md) - OpenClaw TTS 語音訊息 Bug 修復：Telegram 語音格式問題
 
+### agent-browser
+
+#### Bug Fixes
+- [agent-browser-cdp-discarded-tab-hang-fix.md](docs/agent-browser-cdp-discarded-tab-hang-fix.md) - agent-browser CDP 連線 Bug 修復：Memory Saver 凍結 Tab 導致 Hang
+
 ### OpenClaw (English)
 
 #### ACP (Agent Client Protocol)
@@ -29,3 +34,8 @@
 
 #### Bug Fixes
 - [openclaw-tts-voice-message-bug-fix.md](docs/en/openclaw-tts-voice-message-bug-fix.md) - OpenClaw TTS Voice Message Bug Fix: Telegram Voice Format Issue
+
+### agent-browser
+
+#### Bug Fixes
+- [agent-browser-cdp-discarded-tab-hang-fix.md](docs/en/agent-browser-cdp-discarded-tab-hang-fix.md) - agent-browser CDP Connection Bug Fix: Memory Saver Frozen Tabs Cause Hang
