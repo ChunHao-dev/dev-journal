@@ -24,6 +24,10 @@
 #### Bug Fixes
 - [agent-browser-cdp-discarded-tab-hang-fix.md](docs/agent-browser-cdp-discarded-tab-hang-fix.md) - agent-browser CDP 連線 Bug 修復：Memory Saver 凍結 Tab 導致 Hang
 
+### 技術演講筆記
+
+- [Pahud_lecture.md](docs/Pahud_lecture.md) - Pahud 技術演講學習筆記：從 Web 2.0 到 AI Agent 時代的職涯與技術趨勢
+
 ### OpenClaw (English)
 
 #### ACP (Agent Client Protocol)
