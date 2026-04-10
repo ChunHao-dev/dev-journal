@@ -24,6 +24,11 @@
 #### Bug Fixes
 - [agent-browser-cdp-discarded-tab-hang-fix.md](docs/agent-browser-cdp-discarded-tab-hang-fix.md) - agent-browser CDP 連線 Bug 修復：Memory Saver 凍結 Tab 導致 Hang
 
+### openAB
+
+#### DevOps
+- [openab-helm-pvc-data-loss.md](docs/openab-helm-pvc-data-loss.md) - Helm 升級導致 PVC 資料消失：一次 openAB 踩坑紀錄
+
 ### 技術演講筆記
 
 - [Pahud_lecture.md](docs/Pahud_lecture.md) - Pahud 技術演講學習筆記：從 Web 2.0 到 AI Agent 時代的職涯與技術趨勢
@@ -38,6 +43,11 @@
 
 #### Bug Fixes
 - [openclaw-tts-voice-message-bug-fix.md](docs/en/openclaw-tts-voice-message-bug-fix.md) - OpenClaw TTS Voice Message Bug Fix: Telegram Voice Format Issue
+
+### openAB (English)
+
+#### DevOps
+- [openab-helm-pvc-data-loss.md](docs/en/openab-helm-pvc-data-loss.md) - Helm Upgrade Deleted Our PVC: A Lesson from openAB
 
 ### agent-browser
 
