@@ -3,6 +3,7 @@
 > Learning new tech through the open-source project openAB: https://github.com/openabdev/openab
 
 > **Version Info**
+> - openAB: 0.6.0 (0.6.1-beta.1)
 > - Kubernetes / Helm / PVC
 > - Date: 2026-04-10
 

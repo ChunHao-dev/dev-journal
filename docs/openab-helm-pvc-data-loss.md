@@ -3,6 +3,7 @@
 > 透過開源專案 openAB 學習新技術：https://github.com/openabdev/openab
 
 > **版本資訊**
+> - openAB: 0.6.0 (0.6.1-beta.1)
 > - Kubernetes / Helm / PVC
 > - 更新日期: 2026-04-10
 
