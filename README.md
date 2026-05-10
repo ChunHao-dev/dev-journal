@@ -29,6 +29,9 @@
 #### DevOps
 - [openab-helm-pvc-data-loss.md](docs/openab-helm-pvc-data-loss.md) - Helm 升級導致 PVC 資料消失：一次 openAB 踩坑紀錄
 
+#### Knowledge Base
+- [openab-gbrain-transcribe-pipeline.md](docs/openab-gbrain-transcribe-pipeline.md) - openAB + Tailscale + 本地轉錄 + gbrain：零 API 費的影片知識存入流程
+
 ### 技術演講筆記
 
 - [Pahud_lecture.md](docs/Pahud_lecture.md) - Pahud 技術演講學習筆記：從 Web 2.0 到 AI Agent 時代的職涯與技術趨勢
@@ -48,6 +51,9 @@
 
 #### DevOps
 - [openab-helm-pvc-data-loss.md](docs/en/openab-helm-pvc-data-loss.md) - Helm Upgrade Deleted Our PVC: A Lesson from openAB
+
+#### Knowledge Base
+- [openab-gbrain-transcribe-pipeline.md](docs/en/openab-gbrain-transcribe-pipeline.md) - openAB + Tailscale + Local Transcription + gbrain: Zero-API-Cost Video Knowledge Pipeline
 
 ### agent-browser
 
